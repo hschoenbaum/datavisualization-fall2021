@@ -18,7 +18,10 @@ This story is timely because of the broader conversations our society is having 
 
 *What types of people you could talk to for sources?*
 
-I would want to interview someone in local government, such as a member of the D.C. City Council or someone at the mayor's office. I'd also want to speak to someone at the police department. I would visit neighborhoods with the highest number of operating traffic cameras and try to speak to residents of color who have received tickets from the cameras for some personal anecdotes. I would also look into whether there were any local advocacy groups who could speak to this issue.
+* I would want to interview someone in local government, such as a member of the D.C. City Council or someone at the mayor's office. 
+* I'd also want to speak to someone at the police department. 
+* I would visit neighborhoods with the highest number of operating traffic cameras and try to speak to residents of color who have received tickets from the cameras for some personal anecdotes. 
+* I would also look into whether there were any local advocacy groups who could speak to this issue.
 
 *Anything else important to know?*
 
