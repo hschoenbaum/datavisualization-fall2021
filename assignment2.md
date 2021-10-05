@@ -1,5 +1,7 @@
 # Assignment 2
 
+## Are there more operating D.C. traffic cameras ticketing drivers in neighborhoods with a higher demographic of low-income people of color?
+
 ### Hannah Schoenbaum
 
 **Summary**
