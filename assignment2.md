@@ -8,7 +8,7 @@
 
 The earliest article I found on this topic, [“Are Traffic Cameras Racist?”](https://dcist.com/story/06/06/08/are-traffic-cam/) from the dcist, dates back to 2006. This story is mostly speculative and is not well sourced, but it is the first mention of residents complaining that traffic cameras were disproportionately located in the city’s African American neighborhoods.
 
-What has not been done before & what angles could we take?
+*What has not been done before & what angles could we take?*
 
 A
 
