@@ -3,6 +3,7 @@
 [Lime Scooter data ORIGINAL](https://data.lime.bike/api/partners/v1/gbfs/washington_dc/free_bike_status.json)
 
 [Lime Scooter data FINAL](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/Lime%20scooters%20data%20final%20as%20CSV.csv)
+(Note: Github is saying the .csv file is too large to view. We saved the clean Excel and .csv files if you are having trouble viewing and would like us to send them to you another way)
 
 ### Steps to clean data set
 * First we downloaded the data in a .csv file. 
