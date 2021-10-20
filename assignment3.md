@@ -6,6 +6,10 @@
 
 (Note: Github is saying the .csv file is too large to view. We saved the clean Excel and .csv files if you are having trouble viewing and would like us to send them to you another way)
 
+[Vision Zero collision data ORIGINAL]() 
+
+[Vision Zero collision data FINAL](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/Vision%20Zero%20Safety%20Data%20Clean.csv)
+
 ### Steps to clean data set
 * First we downloaded the data in a .csv file. 
 * We looked at the data and decided on which headers we wanted.
