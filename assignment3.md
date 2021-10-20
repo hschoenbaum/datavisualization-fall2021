@@ -1,9 +1,8 @@
 ## Data Assignment 3
 
-[Lime Scooter data ORIGINAL]()
-[Lime Scooter data FINAL](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/Lime%20scooters%20data%20final%20as%20CSV.csv)
+[Lime Scooter data ORIGINAL](https://data.lime.bike/api/partners/v1/gbfs/washington_dc/free_bike_status.json)
 
-### We found two data sets
+[Lime Scooter data FINAL](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/Lime%20scooters%20data%20final%20as%20CSV.csv)
 
 ### Steps to clean data set
 * First we downloaded the data in a .csv file. 
