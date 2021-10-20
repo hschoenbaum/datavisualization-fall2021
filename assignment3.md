@@ -1,6 +1,7 @@
 ## Data Assignment 3
 
-[Excel process, with labeled tabs](https://github.com/IsaMiller/datavisualization-fall2021/blob/main/clean.csv)
+[Lime Scooter data ORIGINAL]()
+[Lime Scooter data FINAL](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/Lime%20scooters%20data%20final%20as%20CSV.csv)
 
 ### We found two data sets
 
