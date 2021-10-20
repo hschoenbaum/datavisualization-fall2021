@@ -4,7 +4,7 @@
 
 ### We found two data sets
 
-### Steps to clean data sets
+### Steps to clean data set
 * First we downloaded the data in a .csv file. 
 * We looked at the data and decided on which headers we wanted.
 * We then transposed the data so it would be thin and not thick (more rows, fewer columns). 
