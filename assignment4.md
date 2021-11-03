@@ -4,7 +4,7 @@
 
 ## Step 1: A link to the dataset, your questions, as well as the answers to those questions.
  
- I searched for data sets on kaggle.com and decided on this [set that details worldwide COVID-19 vaccination data](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/country_vaccinations%20copy.csv). When I downloaded the data set and took my first glance at the categories and data available to me, I decided to explore the following three questions:
+I searched for data sets on kaggle.com and decided on this [set that details worldwide COVID-19 vaccination data](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/country_vaccinations%20copy.csv). When I downloaded the data set and took my first glance at the categories and data available to me, I decided to explore the following three questions:
  
   * Which country was the first to report fully vaccinated individuals?
 
@@ -27,3 +27,6 @@ I had planned to use the answer to my third question to write my sample headline
 
 ## Step 3: Write a sample headline and nut graf based on the most interesting of the three questions.
 
+**AstraZeneca distributes COVID-19 vaccine to more countries than any other manufacturer**
+
+The COVID-19 vaccine manufactured by the University of Oxford and the pharmaceutical firm AstraZeneca has been distributed in more countries than the vaccines produced by other manufacturers, according to global vaccination data from Our World in Data. The Oxford–AstraZeneca vaccine is unlike other vaccines in that it can be stored in conventional refrigerators, with a shelf life of up to six months, and only costs $3 per dose to produce. This vaccine is also the only one available in developing countries, particularly in Africa, where AstraZeneca has arranged to sell the vaccine at production price to support low- and middle-income countries.
