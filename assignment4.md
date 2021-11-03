@@ -1,5 +1,7 @@
 # Assignment 4: Interviewing a Data Set
 
+**Hannah Schoenbaum**
+
 ## Step 1: A link to the dataset, your questions, as well as the answers to those questions.
  
  I searched for data sets on kaggle.com and decided on this [set that details worldwide COVID-19 vaccination data](https://github.com/hschoenbaum/datavisualization-fall2021/blob/main/country_vaccinations%20copy.csv). When I downloaded the data set and took my first glance at the categories and data available to me, I decided to explore the following three questions:
