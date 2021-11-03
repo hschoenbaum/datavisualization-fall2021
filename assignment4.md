@@ -10,7 +10,7 @@
 
   * Which company’s vaccine was administered by the most countries worldwide?
 
-  * Which country has the fewest number of fully vaccinated individuals per hundred residents?
+  * Which country currently has the fewest number of fully vaccinated individuals per hundred residents?
 
 After analyzing the data in Excel, I determined that Israel was the first country to report a fully vacinated individal. I also found that the COVID-19 vaccine produced by Oxford/AstraZeneca was administered by highest number of countries worldwide. Finally, I found that Mexico had the fewesr number of fully vaccinated individuals per 100 residents, out of the counties that reported data in the last month (October 2021). 
 
